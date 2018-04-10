@@ -4,5 +4,6 @@ Cet entrepôt contient le code source du projet réalisé dans le cadre du cours
 
 Ce projet a été réalisé par:
 
-KALLALA Bochra
-YAHYA Salha
+-KALLALA Bochra
+
+-YAHYA Salha
