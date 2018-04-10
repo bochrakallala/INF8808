@@ -155,6 +155,7 @@ var data = dataa.map(function( item ) {
         .attr('y', function(d) { return yScale(d.area); })
         .attr('x', function(d) { return xScale(d.year); })
         .attr('fill', function(d) { return colorScale(d.value); });
+     cells.select("title").text(function(d) { return d.value; });
 
         });
     });
